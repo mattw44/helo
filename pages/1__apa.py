@@ -6,4 +6,4 @@ from sklearn.metrics import classification_report,accuracy_score
 
 st.set_page_config(page_title="Main")
 st.title("Main")
-
+st.sidebar.header("Main")
