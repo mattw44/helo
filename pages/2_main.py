@@ -6,3 +6,4 @@ from sklearn.metrics import classification_report,accuracy_score
 
 st.set_page_config(page_title="Prediction")
 st.title("Predictions")
+st.sidebar.header("Predictions")
