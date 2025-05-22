@@ -1,4 +1,4 @@
 import streamlit as st
 
-st.title("We wok the")
+st.title("YNTKTS")
 st.write("Ini adalah aplikasi Streamlit pertama saya yang dijalankan melalui GitHub!")
